@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.main {
+    min-height: 500px;
+
+    background-color: #f5a7a7;
+}
